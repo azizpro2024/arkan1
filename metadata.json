@@ -1,0 +1,7 @@
+{
+  "name": "Arkan Saudi Real Estate",
+  "description": "A premium, luxury real estate platform dedicated to property listings across the Kingdom of Saudi Arabia, featuring a modern design with Royal Green and Gold accents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
